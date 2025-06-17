@@ -5,11 +5,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive and innovative things.
-- 🍃 I’m currently learning ...
+🍃 I’m currently learning ...
   - Astro
   - React.js
   - MySQL
-- ✨ I'm going back to studying...
+✨ I'm going back to studying...
   - C++
 - ✔ Ask me anything, I'll be happy to help you as much as possible<br>
 - Outside of technology, I like making videos thinking I'm an influencer, playing video games, listening to music, and reading fantasy books.

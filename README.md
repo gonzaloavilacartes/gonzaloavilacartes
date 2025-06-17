@@ -6,14 +6,11 @@
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive and innovative things.
 - 🍃 I’m currently learning ...
-  - Electron.js
-  - Node.js
-  - React
-- ✨ I'm going back to studying...
-  - Python
-  - C++
+  - Astro
+  - React.js
   - MySQL
-  - Java
+- ✨ I'm going back to studying...
+  - C++
 - ✔ Ask me anything, I'll be happy to help you as much as possible<br>
 - Outside of technology, I like making videos thinking I'm an influencer, playing video games, listening to music, and reading fantasy books.
 
